@@ -63,10 +63,10 @@ public class Ejemplo02 {
                 System.out.printf("Día %d es %s\n", numeroDia, "Domingo");
                 break;
 
-            default:
+            default: // here
                 System.out.println("Opción incorrecta");
                 break;
-        }
+        } 
 
     }
 }
